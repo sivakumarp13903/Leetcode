@@ -1,0 +1,87 @@
+500. Keyboard Row
+
+Given an array of strings words, return the words that can be typed using letters of the alphabet on only one row of American keyboard like the image below.
+
+In the American keyboard:
+
+the first row consists of the characters "qwertyuiop",
+the second row consists of the characters "asdfghjkl", and
+the third row consists of the characters "zxcvbnm".
+
+ 
+
+Example 1:
+
+Input: words = ["Hello","Alaska","Dad","Peace"]
+Output: ["Alaska","Dad"]
+Example 2:
+
+Input: words = ["omk"]
+Output: []
+Example 3:
+
+Input: words = ["adsdf","sfd"]
+Output: ["adsdf","sfd"]
+
+
+class Solution {
+    public String[] findWords(String[] words) {
+        StringBuffer res=new StringBuffer();
+        for(String word:words){
+            char c=word.charAt(0);
+            if(c=='q' || c=='w' ||c=='e' ||c=='r' ||c=='t' ||c=='y' ||c=='u' ||c=='i' ||c=='o' || c=='p' || c=='Q' || c=='W' ||c=='E' ||c=='R' ||c=='T' ||c=='Y' ||c=='U' ||c=='I' ||c=='O' || c=='P'){
+                boolean v=true;
+                for(char ch:word.toCharArray()){
+                    if(ch=='q' || ch=='w' ||ch=='e' ||ch=='r' ||ch=='t' ||ch=='y' ||ch=='u' ||ch=='i' ||ch=='o' || ch=='p' || ch=='Q' || ch=='W' ||ch=='E' ||ch=='R' ||ch=='T' ||ch=='Y' ||ch=='U' ||ch=='I' ||ch=='O' || ch=='P' )
+                    {
+                        continue;
+                    }
+                    else{
+                        v=false;break;
+                    }
+                }
+                if(v){
+                    res.append(word+" ");
+                }
+            }
+            else if(c=='a' || c=='s' ||c=='d' ||c=='f' ||c=='g' ||c=='h' ||c=='j' ||c=='k' ||c=='l' || c=='A' || c=='S' || c=='D' ||c=='F' ||c=='G' ||c=='H' ||c=='J' ||c=='K' ||c=='L'){
+                boolean v=true;
+                for(char ch:word.toCharArray()){
+                    if(ch=='a' || ch=='s' ||ch=='d' ||ch=='f' ||ch=='g' ||ch=='h' ||ch=='j' ||ch=='k' ||ch=='l' || ch=='A' || ch=='S' || ch=='D' ||ch=='F' ||ch=='G' ||ch=='H' ||ch=='J' ||ch=='K' ||ch=='L'  )
+                    {
+                        continue;
+                    }
+                    else{
+                        v=false;break;
+                    }
+                }
+                if(v){
+                    res.append(word+" ");
+                }
+            }
+            else{
+                boolean v=true;
+                for(char ch:word.toCharArray()){
+                    if(ch=='z' || ch=='Z' ||ch=='x' ||ch=='X' ||ch=='c' ||ch=='C' ||ch=='v' ||ch=='V' ||ch=='B' || ch=='b' || ch=='n' || ch=='N' ||ch=='M' ||ch=='m'  )
+                    {
+                        continue;
+                    }
+                    else{
+                        v=false;break;
+                    }
+                }
+                if(v){
+                    res.append(word+ " ");
+                }
+            }
+
+        }
+        String emp[]=new String[0];
+        if(res.length()==0){
+            return emp;
+        }
+         String str = res.toString();
+         String val[]=str.split(" ");
+         return val;
+    }
+}

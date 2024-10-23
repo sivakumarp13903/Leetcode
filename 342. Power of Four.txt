@@ -1,0 +1,151 @@
+342. Power of Four
+
+Given an integer n, return true if it is a power of four. Otherwise, return false.
+
+An integer n is a power of four, if there exists an integer x such that n == 4x.
+
+ 
+
+Example 1:
+
+Input: n = 16
+Output: true
+Example 2:
+
+Input: n = 5
+Output: false
+Example 3:
+
+Input: n = 1
+Output: true
+ 
+
+Constraints:
+
+-231 <= n <= 231 - 1
+ 
+
+Follow up: Could you solve it without loops/recursion?
+
+class Solution {
+    public boolean isPowerOfFour(int n) {
+        if(n<=0)return false;
+        while(n%4==0){
+            n/=4;
+        }
+        return n==1;
+
+    }
+}
+
+
+Example 1: 
+𝑛
+=
+64
+n=64
+Let's go through each iteration:
+
+Initial value: 
+𝑛
+=
+64
+n=64
+
+64
+%
+4
+=
+0
+64%4=0, so the loop continues.
+64
+/
+4
+=
+16
+64/4=16
+Iteration 2:
+
+𝑛
+=
+16
+n=16
+16
+%
+4
+=
+0
+16%4=0, so the loop continues.
+16
+/
+4
+=
+4
+16/4=4
+Iteration 3:
+
+𝑛
+=
+4
+n=4
+4
+%
+4
+=
+0
+4%4=0, so the loop continues.
+4
+/
+4
+=
+1
+4/4=1
+Final value: 
+𝑛
+=
+1
+n=1
+
+1
+%
+4
+≠
+0
+1%4
+
+=0, so the loop exits.
+After the loop, the code checks if 
+𝑛
+=
+=
+1
+n==1. Since 
+𝑛
+n is 1, the function returns true, meaning 64 is a power of 4 (specifically 
+4
+3
+4 
+3
+ ).
+
+Example 2: 
+𝑛
+=
+30
+n=30
+Initial value: 
+𝑛
+=
+30
+n=30
+30
+%
+4
+≠
+0
+30%4
+
+=0, so the loop doesn't even run.
+Since the loop didn't run and 
+𝑛
+n is not 1, the function immediately returns false. Therefore, 30 is not a power of 4.

@@ -1,0 +1,61 @@
+234. Palindrome Linked List
+
+Given the head of a singly linked list, return true if it is a 
+palindrome
+ or false otherwise.
+
+ 
+
+Example 1:
+
+
+Input: head = [1,2,2,1]
+Output: true
+Example 2:
+
+
+Input: head = [1,2]
+Output: false
+ 
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        if(head==null||head.next==null){
+            return true;
+        }
+        ListNode p1=head;
+        ListNode p2=head;
+        while(p2!=null && p2.next!=null){
+            p1=p1.next;
+            p2=p2.next.next;
+        }
+        ListNode prev=null;
+        ListNode current=p1;
+        while(current!=null){
+            ListNode next=current.next;
+            current.next=prev;
+            prev=current;
+            current=next;
+        }
+        ListNode f1=head;
+        ListNode f2=prev;
+        while(f2!=null){
+            if(f1.val!=f2.val){
+                return false;
+            }
+            f1=f1.next;
+            f2=f2.next;
+        }
+        return true;
+    }
+}
