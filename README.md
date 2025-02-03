@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/sivakumarp13903/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/sivakumarp13903/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sivakumarp13903/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sivakumarp13903/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
