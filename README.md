@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sivakumarp13903/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0724-find-pivot-index](https://github.com/sivakumarp13903/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sivakumarp13903/Leetcode/tree/master/0735-asteroid-collision) |
+| [1364-tuple-with-same-product](https://github.com/sivakumarp13903/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sivakumarp13903/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/sivakumarp13903/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sivakumarp13903/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/sivakumarp13903/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sivakumarp13903/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sivakumarp13903/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivakumarp13903/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/sivakumarp13903/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sivakumarp13903/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivakumarp13903/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Database
