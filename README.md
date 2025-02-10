@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivakumarp13903/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sivakumarp13903/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/sivakumarp13903/Leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -58,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sivakumarp13903/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sivakumarp13903/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/sivakumarp13903/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sivakumarp13903/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sivakumarp13903/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/sivakumarp13903/Leetcode/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
