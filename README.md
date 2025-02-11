@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sivakumarp13903/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sivakumarp13903/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sivakumarp13903/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sivakumarp13903/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/sivakumarp13903/Leetcode/tree/master/3447-clear-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/sivakumarp13903/Leetcode/tree/master/0735-asteroid-collision) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sivakumarp13903/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sivakumarp13903/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/sivakumarp13903/Leetcode/tree/master/3447-clear-digits) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sivakumarp13903/Leetcode/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sivakumarp13903/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/sivakumarp13903/Leetcode/tree/master/3447-clear-digits) |
