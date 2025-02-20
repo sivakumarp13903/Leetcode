@@ -1,12 +1,9 @@
 class Solution {
     public int hIndex(int[] arr) {
-        if(arr.length==1 && arr[0]>=1){
-            return 1;
-        }
+        int n=arr.length;
         Arrays.sort(arr);
         int c=0,k=1;
-        for(int i=arr.length-1 ;i>=0;i--){
-            System.out.println(arr[i]+" "+k);
+        for(int i=n-1 ;i>=0;i--){
             if(arr[i]>=k){
                 c++;
                 k++;
@@ -15,7 +12,6 @@ class Solution {
                 return c;
             }
         }
-        
         return c;
     }
 }
