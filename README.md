@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sivakumarp13903/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/sivakumarp13903/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0274-h-index](https://github.com/sivakumarp13903/Leetcode/tree/master/0274-h-index) |
 | [0463-island-perimeter](https://github.com/sivakumarp13903/Leetcode/tree/master/0463-island-perimeter) |
 | [0724-find-pivot-index](https://github.com/sivakumarp13903/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sivakumarp13903/Leetcode/tree/master/0733-flood-fill) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/sivakumarp13903/Leetcode/tree/master/0274-h-index) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sivakumarp13903/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivakumarp13903/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sivakumarp13903/Leetcode/tree/master/0200-number-of-islands) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sivakumarp13903/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
