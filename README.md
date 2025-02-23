@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sivakumarp13903/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0112-path-sum) |
 | [0437-path-sum-iii](https://github.com/sivakumarp13903/Leetcode/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sivakumarp13903/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivakumarp13903/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sivakumarp13903/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sivakumarp13903/Leetcode/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/sivakumarp13903/Leetcode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/sivakumarp13903/Leetcode/tree/master/0463-island-perimeter) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sivakumarp13903/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sivakumarp13903/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sivakumarp13903/Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/sivakumarp13903/Leetcode/tree/master/0733-flood-fill) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sivakumarp13903/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0112-path-sum) |
 | [0437-path-sum-iii](https://github.com/sivakumarp13903/Leetcode/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sivakumarp13903/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivakumarp13903/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
