@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sivakumarp13903/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/sivakumarp13903/Leetcode/tree/master/0274-h-index) |
 | [0463-island-perimeter](https://github.com/sivakumarp13903/Leetcode/tree/master/0463-island-perimeter) |
+| [0722-remove-comments](https://github.com/sivakumarp13903/Leetcode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/sivakumarp13903/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sivakumarp13903/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sivakumarp13903/Leetcode/tree/master/0735-asteroid-collision) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sivakumarp13903/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivakumarp13903/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sivakumarp13903/Leetcode/tree/master/0022-generate-parentheses) |
+| [0722-remove-comments](https://github.com/sivakumarp13903/Leetcode/tree/master/0722-remove-comments) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sivakumarp13903/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sivakumarp13903/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sivakumarp13903/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
