@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sivakumarp13903/Leetcode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sivakumarp13903/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/sivakumarp13903/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/sivakumarp13903/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sivakumarp13903/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/sivakumarp13903/Leetcode/tree/master/0055-jump-game) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sivakumarp13903/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sivakumarp13903/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
