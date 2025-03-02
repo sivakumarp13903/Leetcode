@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/sivakumarp13903/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/sivakumarp13903/Leetcode/tree/master/3447-clear-digits) |
+| [3684-substring-matching-pattern](https://github.com/sivakumarp13903/Leetcode/tree/master/3684-substring-matching-pattern) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sivakumarp13903/Leetcode/tree/master/0055-jump-game) |
+## String Matching
+|  |
+| ------- |
+| [3684-substring-matching-pattern](https://github.com/sivakumarp13903/Leetcode/tree/master/3684-substring-matching-pattern) |
 <!---LeetCode Topics End-->
