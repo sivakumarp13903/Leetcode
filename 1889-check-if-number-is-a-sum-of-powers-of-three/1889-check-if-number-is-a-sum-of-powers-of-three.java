@@ -6,16 +6,18 @@ class Solution {
             return;
         }
         else{
-            for (int i = index; i < arr.length; i++) {
-                if (!flagArr[i] && n == arr[i]) {
-                    flag[0] = true;
-                    return;
+            for(int i=index;i<arr.length;i++){
+                if(!flagArr[i] && n==arr[i]){
+                    flag[0]=true;return;
                 }
-                if (!flagArr[i] && arr[i] < n) {
-                    flagArr[i] = true; 
-                    backTrack(i, flag, flagArr, arr, n - arr[i]);
-                    if (flag[0]) return; 
-                    flagArr[i] = false; 
+                if(arr[i]<n){
+                    if(flagArr[i]){
+                        continue;
+                    }
+                    flagArr[i]=true;
+                    backTrack(i,flag,flagArr,arr,n-arr[i]);
+                    // n+=arr[i];
+                    flagArr[i]=false;
                 }
             }
         }
