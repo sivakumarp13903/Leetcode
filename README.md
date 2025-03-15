@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sivakumarp13903/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/sivakumarp13903/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/sivakumarp13903/Leetcode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sivakumarp13903/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/sivakumarp13903/Leetcode/tree/master/0463-island-perimeter) |
 | [0722-remove-comments](https://github.com/sivakumarp13903/Leetcode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/sivakumarp13903/Leetcode/tree/master/0724-find-pivot-index) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivakumarp13903/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sivakumarp13903/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1364-tuple-with-same-product](https://github.com/sivakumarp13903/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sivakumarp13903/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivakumarp13903/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sivakumarp13903/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/sivakumarp13903/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sivakumarp13903/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sivakumarp13903/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivakumarp13903/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sivakumarp13903/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -269,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sivakumarp13903/Leetcode/tree/master/0042-trapping-rain-water) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sivakumarp13903/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
