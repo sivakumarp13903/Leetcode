@@ -7,4 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sivakumarp13903/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
