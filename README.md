@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/sivakumarp13903/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -23,8 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sivakumarp13903/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/sivakumarp13903/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sivakumarp13903/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/sivakumarp13903/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
