@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sivakumarp13903/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
