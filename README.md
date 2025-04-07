@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivakumarp13903/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
+| [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Sorting
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sivakumarp13903/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
+| [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Trie
 |  |
 | ------- |
@@ -115,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sivakumarp13903/Leetcode/tree/master/0383-ransom-note) |
+| [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
