@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
 | [1306-minimum-absolute-difference](https://github.com/sivakumarp13903/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0148-sort-list) |
 | [1306-minimum-absolute-difference](https://github.com/sivakumarp13903/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Greedy
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sivakumarp13903/Leetcode/tree/master/0383-ransom-note) |
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Trie
 |  |
