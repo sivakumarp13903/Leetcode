@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Trie
 |  |
 | ------- |
