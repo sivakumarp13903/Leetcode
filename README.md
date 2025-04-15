@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sivakumarp13903/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2486-most-frequent-even-element](https://github.com/sivakumarp13903/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivakumarp13903/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sivakumarp13903/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2486-most-frequent-even-element](https://github.com/sivakumarp13903/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivakumarp13903/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Trie
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/sivakumarp13903/Leetcode/tree/master/0383-ransom-note) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2486-most-frequent-even-element](https://github.com/sivakumarp13903/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
