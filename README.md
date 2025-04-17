@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sivakumarp13903/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sivakumarp13903/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/sivakumarp13903/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivakumarp13903/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
