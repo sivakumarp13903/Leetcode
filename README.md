@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/sivakumarp13903/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivakumarp13903/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/sivakumarp13903/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/sivakumarp13903/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Trie
 |  |
 | ------- |
