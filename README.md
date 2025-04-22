@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivakumarp13903/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/sivakumarp13903/Leetcode/tree/master/0454-4sum-ii) |
+| [0517-super-washing-machines](https://github.com/sivakumarp13903/Leetcode/tree/master/0517-super-washing-machines) |
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0837-most-common-word) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivakumarp13903/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0517-super-washing-machines](https://github.com/sivakumarp13903/Leetcode/tree/master/0517-super-washing-machines) |
 ## Hash Table
 |  |
 | ------- |
