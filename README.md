@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivakumarp13903/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1236-n-th-tribonacci-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/sivakumarp13903/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/sivakumarp13903/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
