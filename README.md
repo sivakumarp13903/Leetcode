@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/sivakumarp13903/Leetcode/tree/master/0060-permutation-sequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1236-n-th-tribonacci-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/sivakumarp13903/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sivakumarp13903/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/sivakumarp13903/Leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
