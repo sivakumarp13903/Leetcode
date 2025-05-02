@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sivakumarp13903/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/sivakumarp13903/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivakumarp13903/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Array
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/sivakumarp13903/Leetcode/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/sivakumarp13903/Leetcode/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1236-n-th-tribonacci-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/sivakumarp13903/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sivakumarp13903/Leetcode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
