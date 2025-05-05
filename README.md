@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/sivakumarp13903/Leetcode/tree/master/0454-4sum-ii) |
 | [0517-super-washing-machines](https://github.com/sivakumarp13903/Leetcode/tree/master/0517-super-washing-machines) |
+| [0566-reshape-the-matrix](https://github.com/sivakumarp13903/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/sivakumarp13903/Leetcode/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sivakumarp13903/Leetcode/tree/master/0037-sudoku-solver) |
+| [0566-reshape-the-matrix](https://github.com/sivakumarp13903/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/sivakumarp13903/Leetcode/tree/master/0060-permutation-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/sivakumarp13903/Leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
