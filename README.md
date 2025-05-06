@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3534-count-almost-equal-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3534-count-almost-equal-pairs-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sivakumarp13903/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/sivakumarp13903/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Sorting
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivakumarp13903/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3534-count-almost-equal-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivakumarp13903/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/sivakumarp13903/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3534-count-almost-equal-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3534-count-almost-equal-pairs-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/sivakumarp13903/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Trie
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sivakumarp13903/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2486-most-frequent-even-element](https://github.com/sivakumarp13903/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3534-count-almost-equal-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3534-count-almost-equal-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/sivakumarp13903/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/sivakumarp13903/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3534-count-almost-equal-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3534-count-almost-equal-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
