@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/sivakumarp13903/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sivakumarp13903/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sivakumarp13903/Leetcode/tree/master/0056-merge-intervals) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/sivakumarp13903/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sivakumarp13903/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/sivakumarp13903/Leetcode/tree/master/0139-word-break) |
