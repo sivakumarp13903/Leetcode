@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sivakumarp13903/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0148-sort-list) |
 | [0841-shortest-distance-to-a-character](https://github.com/sivakumarp13903/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
