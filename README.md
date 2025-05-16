@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/sivakumarp13903/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1449-print-words-vertically](https://github.com/sivakumarp13903/Leetcode/tree/master/1449-print-words-vertically) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sivakumarp13903/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/sivakumarp13903/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/sivakumarp13903/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1449-print-words-vertically](https://github.com/sivakumarp13903/Leetcode/tree/master/1449-print-words-vertically) |
 | [1646-kth-missing-positive-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -243,5 +245,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/sivakumarp13903/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [1449-print-words-vertically](https://github.com/sivakumarp13903/Leetcode/tree/master/1449-print-words-vertically) |
 | [2048-build-array-from-permutation](https://github.com/sivakumarp13903/Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
