@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sivakumarp13903/Leetcode/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sivakumarp13903/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sivakumarp13903/Leetcode/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/sivakumarp13903/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sivakumarp13903/Leetcode/tree/master/0049-group-anagrams) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sivakumarp13903/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sivakumarp13903/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/sivakumarp13903/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sivakumarp13903/Leetcode/tree/master/0056-merge-intervals) |
