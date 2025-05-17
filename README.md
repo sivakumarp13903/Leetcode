@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/sivakumarp13903/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/sivakumarp13903/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/sivakumarp13903/Leetcode/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/sivakumarp13903/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sivakumarp13903/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/sivakumarp13903/Leetcode/tree/master/0620-not-boring-movies) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sivakumarp13903/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
