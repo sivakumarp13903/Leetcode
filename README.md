@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -255,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sivakumarp13903/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1449-print-words-vertically](https://github.com/sivakumarp13903/Leetcode/tree/master/1449-print-words-vertically) |
 | [2048-build-array-from-permutation](https://github.com/sivakumarp13903/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
