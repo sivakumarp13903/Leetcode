@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/sivakumarp13903/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3321-type-of-triangle](https://github.com/sivakumarp13903/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3534-count-almost-equal-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3534-count-almost-equal-pairs-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivakumarp13903/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivakumarp13903/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3321-type-of-triangle](https://github.com/sivakumarp13903/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3534-count-almost-equal-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3534-count-almost-equal-pairs-i) |
 ## Greedy
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1236-n-th-tribonacci-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/sivakumarp13903/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/sivakumarp13903/Leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
