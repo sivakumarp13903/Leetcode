@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sivakumarp13903/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/sivakumarp13903/Leetcode/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/sivakumarp13903/Leetcode/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/sivakumarp13903/Leetcode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/sivakumarp13903/Leetcode/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/sivakumarp13903/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/sivakumarp13903/Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/sivakumarp13903/Leetcode/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/sivakumarp13903/Leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1236-n-th-tribonacci-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/sivakumarp13903/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/sivakumarp13903/Leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/sivakumarp13903/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1449-print-words-vertically](https://github.com/sivakumarp13903/Leetcode/tree/master/1449-print-words-vertically) |
 | [2048-build-array-from-permutation](https://github.com/sivakumarp13903/Leetcode/tree/master/2048-build-array-from-permutation) |
