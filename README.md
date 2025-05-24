@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/sivakumarp13903/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1449-print-words-vertically](https://github.com/sivakumarp13903/Leetcode/tree/master/1449-print-words-vertically) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sivakumarp13903/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3194-find-words-containing-character](https://github.com/sivakumarp13903/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/sivakumarp13903/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3194-find-words-containing-character](https://github.com/sivakumarp13903/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/sivakumarp13903/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/sivakumarp13903/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sivakumarp13903/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
