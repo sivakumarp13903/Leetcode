@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sivakumarp13903/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2048-build-array-from-permutation](https://github.com/sivakumarp13903/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivakumarp13903/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sivakumarp13903/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sivakumarp13903/Leetcode/tree/master/0134-gas-station) |
 | [0517-super-washing-machines](https://github.com/sivakumarp13903/Leetcode/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/sivakumarp13903/Leetcode/tree/master/0605-can-place-flowers) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sivakumarp13903/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Hash Table
 |  |
 | ------- |
