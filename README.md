@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/sivakumarp13903/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sivakumarp13903/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sivakumarp13903/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/sivakumarp13903/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/sivakumarp13903/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sivakumarp13903/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0148-sort-list) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sivakumarp13903/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1306-minimum-absolute-difference](https://github.com/sivakumarp13903/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sivakumarp13903/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sivakumarp13903/Leetcode/tree/master/0134-gas-station) |
 | [0517-super-washing-machines](https://github.com/sivakumarp13903/Leetcode/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/sivakumarp13903/Leetcode/tree/master/0605-can-place-flowers) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sivakumarp13903/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sivakumarp13903/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Hash Table
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/sivakumarp13903/Leetcode/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0837-most-common-word) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sivakumarp13903/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sivakumarp13903/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/sivakumarp13903/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2486-most-frequent-even-element](https://github.com/sivakumarp13903/Leetcode/tree/master/2486-most-frequent-even-element) |
