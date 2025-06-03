@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sivakumarp13903/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0148-sort-list) |
 | [0696-count-binary-substrings](https://github.com/sivakumarp13903/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0768-partition-labels](https://github.com/sivakumarp13903/Leetcode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/sivakumarp13903/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sivakumarp13903/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
 | [0696-count-binary-substrings](https://github.com/sivakumarp13903/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/sivakumarp13903/Leetcode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/sivakumarp13903/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1449-print-words-vertically](https://github.com/sivakumarp13903/Leetcode/tree/master/1449-print-words-vertically) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sivakumarp13903/Leetcode/tree/master/0135-candy) |
 | [0517-super-washing-machines](https://github.com/sivakumarp13903/Leetcode/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/sivakumarp13903/Leetcode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/sivakumarp13903/Leetcode/tree/master/0768-partition-labels) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sivakumarp13903/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sivakumarp13903/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Hash Table
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/sivakumarp13903/Leetcode/tree/master/0454-4sum-ii) |
 | [0648-replace-words](https://github.com/sivakumarp13903/Leetcode/tree/master/0648-replace-words) |
 | [0749-shortest-completing-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/sivakumarp13903/Leetcode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/sivakumarp13903/Leetcode/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sivakumarp13903/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivakumarp13903/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
