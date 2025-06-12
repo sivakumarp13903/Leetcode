@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3632-button-with-longest-push-time](https://github.com/sivakumarp13903/Leetcode/tree/master/3632-button-with-longest-push-time) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sivakumarp13903/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/sivakumarp13903/Leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sivakumarp13903/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sorting
 |  |
 | ------- |
