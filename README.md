@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sivakumarp13903/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0278-first-bad-version](https://github.com/sivakumarp13903/Leetcode/tree/master/0278-first-bad-version) |
 | [1646-kth-missing-positive-number](https://github.com/sivakumarp13903/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sivakumarp13903/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Binary Tree
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sivakumarp13903/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sivakumarp13903/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
