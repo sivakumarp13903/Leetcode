@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sivakumarp13903/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0173-binary-search-tree-iterator](https://github.com/sivakumarp13903/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0937-online-stock-span](https://github.com/sivakumarp13903/Leetcode/tree/master/0937-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sivakumarp13903/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0937-online-stock-span](https://github.com/sivakumarp13903/Leetcode/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -316,4 +318,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sivakumarp13903/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/sivakumarp13903/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sivakumarp13903/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
