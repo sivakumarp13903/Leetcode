@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sivakumarp13903/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sivakumarp13903/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/sivakumarp13903/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sivakumarp13903/Leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/sivakumarp13903/Leetcode/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sivakumarp13903/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sivakumarp13903/Leetcode/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/sivakumarp13903/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sivakumarp13903/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sivakumarp13903/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sivakumarp13903/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sivakumarp13903/Leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sivakumarp13903/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sivakumarp13903/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sivakumarp13903/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/sivakumarp13903/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
